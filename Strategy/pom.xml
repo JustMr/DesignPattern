@@ -13,6 +13,8 @@
 
     <name>Strategy(策略模式)</name>
 
+    <description>涉及模式：策略模式</description>
+
     <url>http://www.example.com</url>
 
     <properties>

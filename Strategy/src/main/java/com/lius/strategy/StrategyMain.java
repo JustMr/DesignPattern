@@ -43,6 +43,7 @@ public class StrategyMain {
                 break;
         }
 
+
         try {
             int res = operator.operator(_numA,_numB);
             System.out.println(res);

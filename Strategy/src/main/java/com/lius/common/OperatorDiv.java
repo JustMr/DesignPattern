@@ -7,6 +7,7 @@ package com.lius.common;
 public class OperatorDiv extends Operator {
 
     public int operator(int numA, int numB) throws Exception {
+
         if (numB == 0) {
             throw new Exception("被除数不能为0");
         }

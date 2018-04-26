@@ -7,6 +7,7 @@ package com.lius.common;
 public class OperatorMult extends Operator{
 
     public int operator(int numA, int numB) {
+
         return numA * numB;
     }
 }

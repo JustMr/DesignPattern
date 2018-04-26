@@ -7,6 +7,7 @@ package com.lius.common;
 abstract public class Operator {
 
     public int operator(int numA, int numB) throws Exception {
+
         numA = 0;
         numB = 0;
         return numA + numB;

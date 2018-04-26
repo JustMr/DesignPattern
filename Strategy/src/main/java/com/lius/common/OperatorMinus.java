@@ -7,6 +7,7 @@ package com.lius.common;
 public class OperatorMinus extends Operator {
 
     public int operator(int numA, int numB) {
-      return numA - numB;
+
+        return numA - numB;
     }
 }

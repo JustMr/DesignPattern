@@ -14,6 +14,7 @@ public class OperatorContext {
         this.operator = operator;
     }
 
+
     public int operator(int numA, int numB) throws Exception {
         int result = 0;
         if (operator != null) {

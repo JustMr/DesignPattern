@@ -15,6 +15,7 @@ public class StrategyMain {
             res = muis.operator(5,4);
             System.out.println(res);
 
+
             OperatorContext unDefin = new OperatorContext("AB");
             res = unDefin.operator(5,4);
             System.out.println(res);

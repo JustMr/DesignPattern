@@ -32,6 +32,7 @@ public class OperatorContext {
         }
     }
 
+
     public int operator(int numA, int numB) throws Exception {
         int result = 0;
         if (operator != null) {

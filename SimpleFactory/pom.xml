@@ -12,6 +12,9 @@
     <artifactId>SimpleFactory</artifactId>
 
     <name>SimpleFactory(简单工厂模式)</name>
+
+    <description>又称静态工厂</description>
+
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 

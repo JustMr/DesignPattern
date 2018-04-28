@@ -9,11 +9,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>SimpleFactory</artifactId>
+    <artifactId>simple-factory</artifactId>
 
     <name>SimpleFactory(简单工厂模式)</name>
 
-    <description>又称静态工厂</description>
+    <description>又称静态工程</description>
 
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>

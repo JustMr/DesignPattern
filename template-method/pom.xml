@@ -11,7 +11,7 @@
 
     <artifactId>template-method</artifactId>
 
-    <name>template-method</name>
+    <name>template-method(模板方法模式)</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 

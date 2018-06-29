@@ -2,6 +2,7 @@ package com.lius.strategyfactory;
 
 
 import com.lius.common.*;
+import com.lius.observer.common.*;
 
 /**
  * Context类

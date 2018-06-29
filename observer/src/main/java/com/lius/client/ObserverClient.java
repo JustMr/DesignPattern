@@ -1,10 +1,10 @@
-package com.lius.observer.client;
+package com.lius.client;
 
-import com.lius.observer.concrete.observer.NBAObserver;
-import com.lius.observer.concrete.observer.StockObserver;
-import com.lius.observer.concrete.subject.BossSubject;
-import com.lius.observer.concrete.subject.SecretarySubject;
-import com.lius.observer.subject.Subject;
+import com.lius.concrete.subject.BossSubject;
+import com.lius.concrete.subject.SecretarySubject;
+import com.lius.concrete.observer.NBAObserver;
+import com.lius.concrete.observer.StockObserver;
+import com.lius.subject.Subject;
 
 /**
  * 观察者模式

@@ -1,4 +1,4 @@
-package com.lius.observer;
+package com.lius;
 
 import static org.junit.Assert.assertTrue;
 

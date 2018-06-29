@@ -1,7 +1,5 @@
 package com.lius.proxy;
 
-import com.sun.org.apache.bcel.internal.generic.LAND;
-
 /**
  * 房客
  * RealSubject类

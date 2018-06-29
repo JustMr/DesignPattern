@@ -1,8 +1,8 @@
 package com.lius.client;
 
+import com.lius.director.ComputerDirector;
 import com.lius.Concretebuilder.ConcreteComputerBuilder;
 import com.lius.builder.ComputerBuilder;
-import com.lius.director.ComputerDirector;
 import com.lius.product.Product;
 
 /**

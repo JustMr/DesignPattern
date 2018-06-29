@@ -16,6 +16,10 @@
         <module>Factory</module>
         <module>Prototype</module>
         <module>template-method</module>
+        <module>facade</module>
+        <module>builder</module>
+        <module>observer</module>
+        <module>abstractfactory</module>
     </modules>
 
 

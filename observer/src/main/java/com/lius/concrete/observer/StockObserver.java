@@ -1,7 +1,7 @@
-package com.lius.observer.concrete.observer;
+package com.lius.concrete.observer;
 
-import com.lius.observer.observer.Observer;
-import com.lius.observer.subject.Subject;
+import com.lius.observer.Observer;
+import com.lius.subject.Subject;
 
 /**
  *

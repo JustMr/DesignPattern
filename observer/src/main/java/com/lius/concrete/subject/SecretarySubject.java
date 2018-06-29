@@ -1,6 +1,6 @@
-package com.lius.observer.concrete.subject;
+package com.lius.concrete.subject;
 
-import com.lius.observer.subject.Subject;
+import com.lius.subject.Subject;
 
 /**
  * 具体通知者

@@ -1,6 +1,7 @@
-package com.lius.observer.subject;
+package com.lius.subject;
 
-import com.lius.observer.observer.Observer;
+import com.lius.observer.Observer;
+import com.lius.observer.Observer;
 
 import java.util.ArrayList;
 import java.util.List;

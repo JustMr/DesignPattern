@@ -9,9 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>iterator(迭代器模式)</artifactId>
+    <artifactId>iterator</artifactId>
 
-    <name>iterator</name>
+    <name>iterator(迭代器模式)</name>
     <url>http://www.example.com</url>
 
     <properties>

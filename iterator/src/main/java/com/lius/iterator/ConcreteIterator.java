@@ -19,10 +19,7 @@ public class ConcreteIterator implements Iterator {
 
     @Override
     public boolean hasNext() {
-        if (index < list.getSize()) {
-            return true;
-        }
-        return false;
+        return index < list.getSize();
     }
 
     @Override

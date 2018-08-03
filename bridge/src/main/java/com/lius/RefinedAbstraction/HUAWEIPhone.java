@@ -9,6 +9,6 @@ import com.lius.Abstraction.Phone;
 public class HUAWEIPhone extends Phone {
     @Override
     public void run() {
-        this.software.run("华为");
+        this.software.run("华为手机");
     }
 }
